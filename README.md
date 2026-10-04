@@ -1,4 +1,4 @@
-# Atlee Installation Guide
+# Installation Guide
 
 This guide will help you set up both the backend and frontend for the Atlee project.
 
